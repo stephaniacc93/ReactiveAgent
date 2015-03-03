@@ -1,0 +1,8 @@
+C:\Users\Stephania Cavadas\Documents\ReactiveAgent\ReactiveAgent\ReactiveAgent.Console\bin\Debug\ReactiveAgent.Console.exe.config
+C:\Users\Stephania Cavadas\Documents\ReactiveAgent\ReactiveAgent\ReactiveAgent.Console\bin\Debug\ReactiveAgent.Console.exe
+C:\Users\Stephania Cavadas\Documents\ReactiveAgent\ReactiveAgent\ReactiveAgent.Console\bin\Debug\ReactiveAgent.Console.pdb
+C:\Users\Stephania Cavadas\Documents\ReactiveAgent\ReactiveAgent\ReactiveAgent.Console\bin\Debug\ReactiveAgent.dll
+C:\Users\Stephania Cavadas\Documents\ReactiveAgent\ReactiveAgent\ReactiveAgent.Console\bin\Debug\ReactiveAgent.pdb
+C:\Users\Stephania Cavadas\Documents\ReactiveAgent\ReactiveAgent\ReactiveAgent.Console\obj\Debug\ReactiveAgent.Console.csprojResolveAssemblyReference.cache
+C:\Users\Stephania Cavadas\Documents\ReactiveAgent\ReactiveAgent\ReactiveAgent.Console\obj\Debug\ReactiveAgent.Console.exe
+C:\Users\Stephania Cavadas\Documents\ReactiveAgent\ReactiveAgent\ReactiveAgent.Console\obj\Debug\ReactiveAgent.Console.pdb

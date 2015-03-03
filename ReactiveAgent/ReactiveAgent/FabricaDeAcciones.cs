@@ -7,29 +7,28 @@ using System.Threading.Tasks;
 
 namespace ReactiveAgent
 {
-    public class FabricaDeAcciones
+    public static class FabricaDeAcciones
     {
-        private Estado Estado { get; set; }
+        private static State State { get; set; }
 
-        public FabricaDeAcciones(Estado estado)
+        public static Operation CrearUnaAccion(State s)
         {
-            this.Estado = estado;
-        }
+            State = s;
+            Operation operation = new Operation();
 
-        public void CrearUnaAccion()
-        {
-            if (Estado == Estado.Easy)
+            if (State == State.Easy)
             {
-                //haz algo
+                return operation.GetOperation(State.Easy);
             }
-            else if (Estado == Estado.Med)
+            else if (State == State.Med)
             {
-                //haz otra cosa
+                return operation.GetOperation(State.Med);
             }
-            else if (Estado == Estado.Hard)
+            else
             {
-                //haz algo mas
+                return operation.GetOperation(State.Hard);
             }
+         
         }
 
     }

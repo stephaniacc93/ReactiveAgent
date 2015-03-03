@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ReactiveAgent
 {
-    public enum Estado
+    public enum State
     {
         Easy,
         Med,

@@ -1,0 +1,5 @@
+C:\Users\Stephania Cavadas\Documents\ReactiveAgent\ReactiveAgent\ReactiveAgent\bin\Debug\ReactiveAgent.dll
+C:\Users\Stephania Cavadas\Documents\ReactiveAgent\ReactiveAgent\ReactiveAgent\bin\Debug\ReactiveAgent.pdb
+C:\Users\Stephania Cavadas\Documents\ReactiveAgent\ReactiveAgent\ReactiveAgent\obj\Debug\ReactiveAgent.csprojResolveAssemblyReference.cache
+C:\Users\Stephania Cavadas\Documents\ReactiveAgent\ReactiveAgent\ReactiveAgent\obj\Debug\ReactiveAgent.dll
+C:\Users\Stephania Cavadas\Documents\ReactiveAgent\ReactiveAgent\ReactiveAgent\obj\Debug\ReactiveAgent.pdb
